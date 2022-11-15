@@ -1,5 +1,29 @@
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...This page contain tutorials on how to deploy various crypto project servers
+Visit our website  Join our discord  Visit our website 
+
+Deploy your VPS using our referral link to get 20€ bonus 
+
+Deploy your VPS using our referral link to get 100$ free bonus for 60 days 
+
+Deploy your VPS using our referral link to get 100$ free bonus 
+
+List of Cosmos ecosystem projets with custom ports configured:
+
+Project name	Custom port	Full guide	Manual guide	Validator monitoring guide
+Paloma	10	click here	click here	click here
+Quicksilver	11	click here	click here	click here
+Sei	12	click here	click here	click here
+Kujira	13	click here	click here	click here
+Deweb	14	click here	click here	click here
+Uptick	15	click here	click here	click here
+Stride	16	click here	click here	click here
+Aura	17	click here	click here	click here
+Cardchain	18	click here	click here	click here
+Teritori	19	click here	click here	click here
+Celestia	20	click here	click here	click here
+Rebus	21	click here	click here	click here
+Juno	22	click here	click here	click here
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
