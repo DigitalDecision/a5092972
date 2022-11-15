@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**a5092972/a5092972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/58205039/201987126-be7250f3-e096-43db-855d-ba2ec8b7f8a1.png)
